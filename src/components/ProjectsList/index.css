@@ -1,0 +1,22 @@
+.list-card {
+  background-color: #fcf9f9;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  height: 180px;
+  width: 165px;
+}
+
+.project-image {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  height: 120px;
+  width: 165px;
+}
+
+.project-name {
+  font-family: Roboto;
+  margin: 0;
+  margin-top: 10px;
+  padding-left: 15px;
+}
